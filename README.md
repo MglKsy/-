@@ -28,6 +28,8 @@ conda install -c conda-forge aiohttp
   
   修改 d2代码中的 m3u8_url 为你复制的请求链接
   修改 mp4_name 为你想要保存的视频文件名称， 如第11周的第1节课可命名为 11-1
+
+  运行主程序
   ```
 
   
